@@ -7,6 +7,7 @@
 # Screen Shots
 
 ## Conversations
+<img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200625-123012.png" width="300" height="600">
 <img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172102.png" width="300" height="600">
 
 ## Inbox
