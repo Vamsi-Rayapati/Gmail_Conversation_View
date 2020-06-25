@@ -8,7 +8,7 @@
 ## Inbox
 
 
-<img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172048.png" width="250" height="400">
+<img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172048.png" width="230" height="400">
 
 ## Bottom Navigation Drawer
 <img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172053.png" width="250" height="400">
