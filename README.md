@@ -19,7 +19,7 @@
 ](url)
 ## Send mail
 [
-![Screenshot_20200623-172143.png](https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/SScreenshot_20200623-172143.png)
+![Screenshot_20200623-172143.png](https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172143.png)
 ](url)
 ## Read Mail
 [
