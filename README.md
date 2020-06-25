@@ -5,15 +5,15 @@
 1)Android Application Developments  2)Java Programming  3)SQL 4)Gmail API
 
 # Screen Shots
+
+## Conversations
+<img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172102.png" width="300" height="600">
+
 ## Inbox
-
-
 <img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172048.png" width="300" height="600">
 
 ## Bottom Navigation Drawer
 <img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172053.png" width="300" height="600">
-## Conversations
-<img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172102.png" width="300" height="600">
 
 ## Send mail
 <img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172143.png" width="300" height="600">
