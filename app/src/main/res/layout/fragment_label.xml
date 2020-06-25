@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".Label">
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/dialogbackg"
+            android:useDefaultMargins="true">
+
+                <Button
+                    android:id="@+id/sent"
+                    android:layout_width="118dp"
+                    android:layout_height="wrap_content"
+                    android:layout_row="0"
+                    android:layout_column="2"
+                    android:background="@drawable/labelbackg"
+                    android:text="SENT"
+                    android:textColor="#797979" />
+
+                <Button
+                    android:id="@+id/trash"
+                    android:layout_width="118dp"
+                    android:layout_height="wrap_content"
+                    android:layout_row="2"
+                    android:layout_column="0"
+                    android:background="@drawable/labelbackg"
+                    android:text="TRASH"
+                    android:textColor="#797979" />
+
+                <Button
+                    android:id="@+id/starred"
+                    android:layout_width="118dp"
+                    android:layout_height="wrap_content"
+                    android:layout_row="2"
+                    android:layout_column="2"
+                    android:background="@drawable/labelbackg"
+                    android:text="STARRED"
+                    android:textColor="#797979" />
+
+                <Button
+                    android:id="@+id/important"
+                    android:layout_width="118dp"
+                    android:layout_height="wrap_content"
+                    android:layout_row="2"
+                    android:layout_column="1"
+                    android:background="@drawable/labelbackg"
+                    android:text="IMPORTANT"
+                    android:textColor="#797979" />
+
+                <Button
+                    android:id="@+id/unread"
+                    android:layout_width="118dp"
+                    android:layout_height="wrap_content"
+                    android:layout_row="0"
+                    android:layout_column="1"
+                    android:background="@drawable/labelbackg"
+                    android:text="Unread"
+                    android:textColor="#797979" />
+
+                <Button
+                    android:id="@+id/spam"
+                    android:layout_width="118dp"
+                    android:layout_height="wrap_content"
+                    android:layout_row="1"
+                    android:layout_column="0"
+                    android:background="@drawable/labelbackg"
+                    android:text="SPAM"
+                    android:textColor="#797979" />
+
+                <Button
+                    android:id="@+id/draft"
+                    android:layout_width="118dp"
+                    android:layout_height="wrap_content"
+                    android:layout_row="1"
+                    android:layout_column="1"
+                    android:background="@drawable/labelbackg"
+                    android:text="DRAFT"
+                    android:textColor="#797979" />
+
+                <Button
+                    android:id="@+id/allmails"
+                    android:layout_width="118dp"
+                    android:layout_height="wrap_content"
+                    android:layout_row="1"
+                    android:layout_column="2"
+                    android:background="@drawable/labelbackg"
+                    android:text="All Mails"
+                    android:textColor="#797979" />
+
+                <Button
+                    android:id="@+id/inbox"
+                    android:layout_width="118dp"
+                    android:layout_height="wrap_content"
+                    android:layout_row="0"
+                    android:layout_column="0"
+                    android:background="@drawable/labelbackg"
+                    android:text="Inbox"
+                    android:textColor="#797979" />
+
+        </GridLayout>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/space1"
+            android:layout_width="match_parent"
+            android:layout_height="57dp"
+            android:background="@android:drawable/screen_background_light_transparent"
+            app:cardBackgroundColor="@android:color/transparent" />
+
+</LinearLayout>
