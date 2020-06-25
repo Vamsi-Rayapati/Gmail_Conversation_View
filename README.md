@@ -6,26 +6,22 @@
 
 # Screen Shots
 ## Inbox
-[
-![Screenshot_20200623-172048.png](https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172048.png)
-](url)
+
+
+<img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172048.png" width="200" height="400">
+
 ## Bottom Navigation Drawer
-[
-![Screenshot_20200623-172053.png](https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172053.png)
-](url)
+<img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172053.png" width="200" height="400">
 ## Conversations
-[
-![Screenshot_20200623-172102.png](https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172102.png)
-](url)
+<img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172102.png" width="200" height="400">
+
 ## Send mail
-[
-![Screenshot_20200623-172143.png](https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172143.png)
-](url)
+<img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172143.png" width="200" height="400">
+
 ## Read Mail
-[
-![Screenshot_20200623-172154.png](https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172154.png)
-](url)
+<img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172154.png" width="200" height="400">
+
 ## FeedBack
-[
-![Screenshot_20200623-172114.png](https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172114.png)
-](url)
+<img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172114.png" width="200" height="400">
+
+
