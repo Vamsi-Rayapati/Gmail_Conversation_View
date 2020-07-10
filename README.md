@@ -31,7 +31,7 @@
 <img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172048.png" width="300" height="600">
 
 ## Bottom Navigation Drawer
-->Here we hae a bottom navigation drawer so that we can select labels easily using one hand</br></br>
+->Here we have a bottom navigation drawer so that we can select labels easily using one hand</br></br>
 <img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172053.png" width="300" height="600">
 
 ## Send mail
