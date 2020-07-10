@@ -10,8 +10,8 @@
 4)Gmail API</br>
 
 # Process
-1)Create New Android studio project</br>
-2)Integrate gmail signin to application&nbsp;&nbsp;<a href="https://developers.google.com/identity/sign-in/android/start-integrating" style="height:40px;border-style:solid;background-color:#4285F4;border-radius:10px;border-color:#4285F4;color:#FFFFFF;">START</a>
+1)Create New Android studio project<a href="https://developers.google.com/identity/sign-in/android/start-integrating" style="height:40px;border-style:solid;background-color:#4285F4;border-radius:10px;border-color:#4285F4;color:#FFFFFF;target="_blank"">START</a></br>
+2)Integrate gmail signin to application&nbsp;&nbsp;<a href="https://developers.google.com/identity/sign-in/android/start-integrating" target="_blank">START</a>
 
 # Screen Shots
 
