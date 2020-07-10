@@ -4,6 +4,10 @@
 # Requirements
 1)Android Application Developments  2)Java Programming  3)SQL 4)Gmail API
 
+# Process
+1)Create New Android studio project</br>
+2)Integrate gmail signin to application
+
 # Screen Shots
 
 ## Conversations
