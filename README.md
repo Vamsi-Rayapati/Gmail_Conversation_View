@@ -11,7 +11,7 @@
 
 # Process
 1)Create New Android studio project</br>
-2)Integrate gmail signin to application<a href="https://developers.google.com/identity/sign-in/android/start-integrating">SATRT</a>
+2)Integrate gmail signin to application&nbsp;&nbsp;<a href="https://developers.google.com/identity/sign-in/android/start-integrating" style="text-decoration:none;color:white;background-color:red;height:55px;width:100px;">SATRT</a>
 
 # Screen Shots
 
