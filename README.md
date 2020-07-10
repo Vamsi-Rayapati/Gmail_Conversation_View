@@ -44,6 +44,6 @@
 
 ### FeedBack
 
-<img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172114.png" width="280" height="500">
+<img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172114.png" width="300" height="600">
 
 
