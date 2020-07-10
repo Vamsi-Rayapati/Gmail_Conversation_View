@@ -23,25 +23,27 @@
 ->Mails that you RECEIVED from selected user are place on left side</br>
 ->Mails that you SENT to the selected user are placed on right side</br></br>
 <img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200625-123012.png" width="300" height="600">
-<img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172102.png" width="300" height="600">
 
 ## Inbox
 ->This tab displays List of mails that are received</br>
-->Select mail to read the complete mail</br>
+->Select mail to read the complete mail</br></br>
+
 <img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172048.png" width="300" height="600">
 
 ## Bottom Navigation Drawer
-->Here we hae a bottom navigation drawer so that we can select labels easily using one hand</br>
+->Here we hae a bottom navigation drawer so that we can select labels easily using one hand</br></br>
 <img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172053.png" width="300" height="600">
 
 ## Send mail
-->Here we can send mails with attachments</br>
+->Here we can send mails with attachments</br></br>
 <img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172143.png" width="300" height="600">
 
 ## Read Mail
+->This Activity displays the mail completely</br></br>
 <img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172154.png" width="300" height="600">
 
 ## FeedBack
+
 <img src="https://github.com/Vamsi-Rayapati/Gmail_Conversation_View/blob/master/screenshots/Screenshot_20200623-172114.png" width="300" height="600">
 
 
