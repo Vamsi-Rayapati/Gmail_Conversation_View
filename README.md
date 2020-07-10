@@ -1,6 +1,6 @@
 # Gmail-Converstion-View
 1)Get conversations of mails</br>
-2) New UI that can handle using one hand </br>
+2)New UI that can handle using one hand (please check the screenshots below)</br>
 3)Read and Send Mails with Attachments
 
 # Requirements
