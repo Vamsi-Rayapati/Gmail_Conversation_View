@@ -7,12 +7,15 @@
 1)Android Application Developments </br>
 2)Java Programming  </br>
 3)SQL </br>
-4)Gmail API</br>
+4)GmailAPI</br>
+5)Java Mail API</br>
 
 # Process
-1)Create New Android studio project&nbsp;&nbsp;<a href="https://developer.android.com/training/basics/firstapp/creating-project" target="_blank">START</a></br>
+1)Create a new AndroidStudio project&nbsp;&nbsp;<a href="https://developer.android.com/training/basics/firstapp/creating-project" target="_blank">START</a></br>
 2)Integrate gmail signin to application&nbsp;&nbsp;<a href="https://developers.google.com/identity/sign-in/android/start-integrating" target="_blank">START</a></br>
-
+3)Create a project in google developer console and integrate it into Android Application;&nbsp;<a href="https://www.c-sharpcorner.com/article/java-mail-api-using-gmail-oauth-api-in-android/#:~:text=Open%20Google%20API%20Console%20and,Credentials%E2%80%9D%20in%20the%20Credentials%20Tab." target="_blank">START</a></br>
+4)Implement a basic readmails functionality</br>
+5)Let's Start HardCode to implement complete functionality</br>
 # Screen Shots
 
 ## Conversations
